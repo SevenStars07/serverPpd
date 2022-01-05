@@ -4,7 +4,6 @@ using System.Text;
 using System.Text.Json;
 using System.Timers;
 using DataAccess;
-using Microsoft.EntityFrameworkCore;
 using Model;
 using Timer = System.Timers.Timer;
 
